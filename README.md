@@ -52,31 +52,28 @@ Below are some of the key visualizations created during the analysis:
 Attrition Distribution
 This chart shows the percentage of employees who left versus those who stayed.
 
+![Attrition Distribution](images/attrition_distribution.png)
 
 Monthly Income by Attrition
 A boxplot to understand if salary differences impact attrition.
 
+![Monthly Income by Attrition](images/monthly_income_by_attrition.png)
 
 Correlation Heatmap
 This heatmap highlights the relationship between various features and the attrition variable.
 
+![Correlation Heatmap](images/correlation_heatmap.png)
 
 Attrition by Job Role
 This bar plot shows attrition rates across different job roles.
 
+![Attrition by Job Role](images/attrition_by_jobrole.png)
 
 Work-Life Balance and Performance Ratings by Attrition
 Analyzing how work-life balance and performance ratings differ for employees who leave versus those who stay.
+#### Work-Life Balance and Performance Ratings
+![Work-Life Balance](images/worklife_balance_by_attrition.png)
 
-
-How to Run the Code
-Clone this repository:
-git clone https://github.com/your-username/Predictive-HR-Analytics-Dashboard-for-Attrition-Management.git
-cd Predictive-HR-Analytics-Dashboard-for-Attrition-Management
-Install the required Python libraries:
-pip install -r requirements.txt
-Run the Jupyter Notebook:
-jupyter notebook
 Load the dataset and execute the steps in the notebook.
 Results and Insights
 Key Attrition Drivers:
